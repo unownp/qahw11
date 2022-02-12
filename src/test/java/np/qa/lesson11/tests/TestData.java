@@ -1,4 +1,4 @@
-package np.qa.lesson10.tests;
+package np.qa.lesson11.tests;
 
 import com.github.javafaker.Faker;
 

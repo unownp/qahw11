@@ -1,6 +1,6 @@
-package np.qa.lesson10.tests;
+package np.qa.lesson11.tests;
 
-import np.qa.lesson10.pages.RegistrationFormPage;
+import np.qa.lesson11.pages.RegistrationFormPage;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
