@@ -10,7 +10,12 @@ public class BranchesTest {
 
     @Test
     public void commitTest() {
-    assertTrue(2==2);
+    assertTrue(3==2);
+    }
+
+    @Test
+    public void commitTest2() {
+        assertEquals(2,2);
     }
 
 }
